@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on OpenSource projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [Personal email](mailto:abilioposada@gmail.com), [Work email](mailto:aposada@ortussolutions.com)
+- ⚡ Fun fact: I love to code at midnight
 
 <!--
 **abilioposada/abilioposada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,4 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

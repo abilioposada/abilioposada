@@ -1,8 +1,5 @@
-# Hello there 👋
-
-- 🔭 I’m currently working on [Ortus Solutions Corp](https://www.ortussolutions.com). [GitHub](https://github.com/ortus-solutions).
-
 ![Ortus Solutions](/Ortus.png "Ortus Solutions")
+- 🔭 I’m currently working on [Ortus Solutions Corp](https://www.ortussolutions.com). [GitHub](https://github.com/ortus-solutions).
 - 🌱 I’m currently learning Vue 3
 - 👯 I’m looking to collaborate on OpenSource projects
 - 💬 Ask me about anything
